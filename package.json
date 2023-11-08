@@ -12,7 +12,7 @@
     "@types/node": "20.8.10",
     "@types/react": "18.2.36",
     "@types/react-dom": "18.2.14",
-    "@vis.gl/react-google-maps": "^0.2.0",
+    "@vis.gl/react-google-maps": "^0.2.1",
     "autoprefixer": "10.4.16",
     "eslint": "8.53.0",
     "eslint-config-next": "14.0.1",
